@@ -7,10 +7,10 @@
 |:-----------------|:----------------------------------------|
 | ソーシャルネーム | tknzk                                   |
 | EMail            | info@tknzk.com, info@tknzk.dev          |
-| GitHub           | [@tknzk](https://github.com/tknzk)      |
+| GitHub           | [tknzk](https://github.com/tknzk)      |
 | Twitter          | [@tknzk](https://twitter.com/tknzk)     |
-| Speaker Deck     | [@tknzk](https://speakerdeck.com/tknzk) |
-| Qiita            | [@tknzk](https://qiita.com/tknzk)       |
+| Speaker Deck     | [tknzk](https://speakerdeck.com/tknzk) |
+| Qiita            | [tknzk](https://qiita.com/tknzk)       |
 | WebSite          | [tknzk.com](https://www.tknzk.com)      |
 
 
