@@ -12,6 +12,7 @@
 | Speaker Deck     | [tknzk](https://speakerdeck.com/tknzk) |
 | Qiita            | [tknzk](https://qiita.com/tknzk)       |
 | WebSite          | [tknzk.com](https://www.tknzk.com)      |
+| blog             | [tknzk's blog](http://tknzk.hatenablog.jp) |
 
 
 ## スキル
