@@ -1,5 +1,5 @@
 # 職務経歴書
-最終更新: 2019/09/06
+最終更新: 2019/09/08
 
 # 連絡先
 
@@ -40,6 +40,7 @@
   - AWS
   - GCP
   - heroku
+  - Citus Cloud
   - PayPal
   - Amazon Product Advertising API
 
@@ -52,6 +53,7 @@
 - Ruby on Rails 製ウェブアプリケーションの開発業務
 - 認証基盤の改修
 - SAML認証の追加
+- MultiTenant Web Application
 - ops
 
 
