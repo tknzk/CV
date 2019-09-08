@@ -63,6 +63,7 @@
 - iQON AD の開発運用
   - EB with Multi-container Docker
 - Ruby on Rails 製の社内売上管理システムの設計・実装・改修
+- モノリシックな Rails アプリケーションの一部を切り離して MicroService化するなど
 
 
 ### 2013-07 - 2015-03: ALEX Corporation
