@@ -6,7 +6,7 @@
 | key              | value                                   |
 |:-----------------|:----------------------------------------|
 | ソーシャルネーム | tknzk                                   |
-| EMail            | info@tknzk.com, info@tknzk.dev          |
+| EMail            | info@tknzk.com                          |
 | GitHub           | [tknzk](https://github.com/tknzk)      |
 | Twitter          | [@tknzk](https://twitter.com/tknzk)     |
 | Speaker Deck     | [tknzk](https://speakerdeck.com/tknzk) |
