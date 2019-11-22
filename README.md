@@ -3,16 +3,17 @@
 
 # 連絡先
 
-| key              | value                                   |
-|:-----------------|:----------------------------------------|
-| Name             | Takumi Kanzaki                          |
-| ソーシャルネーム | tknzk                                   |
-| EMail            | info@tknzk.com, info@tknzk.dev          |
-| GitHub           | [tknzk](https://github.com/tknzk)      |
-| Twitter          | [@tknzk](https://twitter.com/tknzk)     |
-| Speaker Deck     | [tknzk](https://speakerdeck.com/tknzk) |
-| Qiita            | [tknzk](https://qiita.com/tknzk)       |
-| WebSite          | [tknzk.com](https://www.tknzk.com)      |
+| key              | value                                      |
+|:-----------------|:-------------------------------------------|
+| Name             | Takumi Kanzaki                             |
+| Social Name      | tknzk                                      |
+| EMail            | info@tknzk.com                             |
+| GitHub           | [tknzk](https://github.com/tknzk)          |
+| Twitter          | [@tknzk](https://twitter.com/tknzk)        |
+| Speaker Deck     | [tknzk](https://speakerdeck.com/tknzk)     |
+| Qiita            | [tknzk](https://qiita.com/tknzk)           |
+| WebSite          | [tknzk.com](https://www.tknzk.com)         |
+| blog             | [tknzk's blog](http://tknzk.hatenablog.jp) |
 
 
 ## スキル
@@ -40,6 +41,7 @@
   - AWS
   - GCP
   - heroku
+  - Citus Cloud
   - PayPal
   - Amazon Product Advertising API
 
@@ -60,8 +62,8 @@
 - 職種: ソフトウェアエンジニア
 - iQON AD の開発運用
   - EB with Multi-container Docker
-  - [](https://speakerdeck.com/tknzk/eb-with-multi-container-docker)
 - Ruby on Rails 製の社内売上管理システムの設計・実装・改修
+- モノリシックな Rails アプリケーションの一部を切り離して MicroService化するなど
 
 
 ### 2013-07 - 2015-03: ALEX Corporation
@@ -95,11 +97,21 @@
 - 自社DCでのサーバー運用
 
 ### 2005-10 - 2006-07: 株式会社リビングファースト
-- 職種: プログラマ
-- 物件更新のアルバイト
-- 情シス
+
+- 職種: 物件更新のアルバイト、プログラマ、情シス
+- 不動産ポータルサイトの物件データの更新
 - 物件管理システムの開発
 - ブログシステムの開発
+- 社内情シス
+  - PCの初期化、セットアップ
+
+## 登壇資料
+- [SmartHRにおけるアカウントモデルの移行のはなし / Rails Developers Meetup 2018 Day 4 Nouvelle Vague](https://speakerdeck.com/tknzk/story-of-migration-of-account-model-in-smarthr-rails-developers-meetup-2018-day-4-nouvelle-vague)
+- [新生児〜生後6ヶ月を支えた技術 / すくすく！子育てエンジニア Meetup #3](https://speakerdeck.com/tknzk/kosodate-engineer-meetup-3)
+- [子育てをはじめて2.5年の振り返り / すくすく！子育てエンジニア Meetup #2](https://speakerdeck.com/tknzk/kosodate-engineer-meetup-2)
+- [EB with multi-container Docke rを production で1年間運用して起きたこと / JAWS-UG おコンテナ支部 #5](https://speakerdeck.com/tknzk/eb-with-multi-container-docker)
+- [AdServer Casual Monitoring by fluentd, Mackerel / FasionTech Meetup LT](https://speakerdeck.com/tknzk/adserver-casual-monitoring-by-fluentd-mackerel)
+
 
 ## 資格
 
