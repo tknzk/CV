@@ -1,10 +1,11 @@
 # 職務経歴書
-最終更新: 2019/09/06
+最終更新: 2019/11/22
 
 # 連絡先
 
 | key              | value                                   |
 |:-----------------|:----------------------------------------|
+| Name             | Takumi Kanzaki                          |
 | ソーシャルネーム | tknzk                                   |
 | EMail            | info@tknzk.com, info@tknzk.dev          |
 | GitHub           | [tknzk](https://github.com/tknzk)      |
@@ -20,7 +21,7 @@
   - Ruby on Rails
   - Sinatra
 
-- SQL
+- RDBMS
   - MySQL
   - PostgreSQL
 
@@ -48,7 +49,7 @@
 
 - 職種: ソフトウェアエンジニア
 - 7人目のエンジニアとして参加
-- Ruby on Rails 製ウェブアプリケーションの開発業務
+- Ruby on Rails 製 Multi Tenant Web Application の開発業務
 - 認証基盤の改修
 - SAML認証の追加
 - ops
