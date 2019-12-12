@@ -1,5 +1,5 @@
 # 職務経歴書
-最終更新: 2019/11/22
+最終更新: 2019/12/12
 
 # 連絡先
 
@@ -7,7 +7,7 @@
 |:-----------------|:-------------------------------------------|
 | Name             | Takumi Kanzaki                             |
 | Social Name      | tknzk                                      |
-| EMail            | info@tknzk.com                             |
+| email            | info@tknzk.com                             |
 | GitHub           | [tknzk](https://github.com/tknzk)          |
 | Twitter          | [@tknzk](https://twitter.com/tknzk)        |
 | Speaker Deck     | [tknzk](https://speakerdeck.com/tknzk)     |
@@ -123,3 +123,6 @@
 - 子育て
 - インターネットサービス
 
+## 健康状態
+- 未破裂右内頚動脈瘤
+  - 2013年より経過観察中
