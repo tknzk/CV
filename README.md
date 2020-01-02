@@ -1,17 +1,18 @@
 # 職務経歴書
-最終更新: 2019/09/08
+最終更新: 2019/12/12
 
 # 連絡先
 
-| key              | value                                   |
-|:-----------------|:----------------------------------------|
-| ソーシャルネーム | tknzk                                   |
-| EMail            | info@tknzk.com                          |
-| GitHub           | [tknzk](https://github.com/tknzk)      |
-| Twitter          | [@tknzk](https://twitter.com/tknzk)     |
-| Speaker Deck     | [tknzk](https://speakerdeck.com/tknzk) |
-| Qiita            | [tknzk](https://qiita.com/tknzk)       |
-| WebSite          | [tknzk.com](https://www.tknzk.com)      |
+| key              | value                                      |
+|:-----------------|:-------------------------------------------|
+| Name             | Takumi Kanzaki                             |
+| Social Name      | tknzk                                      |
+| email            | info@tknzk.com                             |
+| GitHub           | [tknzk](https://github.com/tknzk)          |
+| Twitter          | [@tknzk](https://twitter.com/tknzk)        |
+| Speaker Deck     | [tknzk](https://speakerdeck.com/tknzk)     |
+| Qiita            | [tknzk](https://qiita.com/tknzk)           |
+| WebSite          | [tknzk.com](https://www.tknzk.com)         |
 | blog             | [tknzk's blog](http://tknzk.hatenablog.jp) |
 
 
@@ -21,7 +22,7 @@
   - Ruby on Rails
   - Sinatra
 
-- SQL
+- RDBMS
   - MySQL
   - PostgreSQL
 
@@ -50,10 +51,9 @@
 
 - 職種: ソフトウェアエンジニア
 - 7人目のエンジニアとして参加
-- Ruby on Rails 製ウェブアプリケーションの開発業務
+- Ruby on Rails 製 Multi Tenant Web Application の開発業務
 - 認証基盤の改修
 - SAML認証の追加
-- MultiTenant Web Application
 - ops
 
 
@@ -118,6 +118,10 @@
 |date|title|
 |---|---|
 |2000-03|普通自動車免許|
+
+## 健康状態
+- 未破裂右内頚動脈瘤
+  - 2013年より経過観察中
 
 ## 興味関心
 - 子育て
