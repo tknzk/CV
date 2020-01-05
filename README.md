@@ -14,6 +14,7 @@
 | Qiita            | [tknzk](https://qiita.com/tknzk)           |
 | WebSite          | [tknzk.com](https://www.tknzk.com)         |
 | blog             | [tknzk's blog](http://tknzk.hatenablog.jp) |
+| Linkedin         | [https://www.linkedin.com/in/tknzk/](https://www.linkedin.com/in/tknzk/) |
 
 
 ## スキル
