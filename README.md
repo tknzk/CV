@@ -55,6 +55,7 @@
 - Ruby on Rails 製 Multi Tenant Web Application の開発業務
 - 認証基盤の改修
 - SAML認証の追加
+- OAuth2/OIDC
 - HR Driven Provisioning (SCIM)
   - Okta
   - Microsoft Entra ID
@@ -126,6 +127,10 @@
 ## 健康状態
 - 未破裂右内頚動脈瘤
   - 2013年より経過観察中
+
+## 所属団体
+- [MyDataJapan](https://mydatajapan.org/) 個人会員
+- [IDPRO](https://idpro.org/) Individual Member
 
 ## 興味関心
 - 子育て
