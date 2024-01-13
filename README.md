@@ -1,5 +1,5 @@
 # 職務経歴書
-最終更新: 2020/01/03
+最終更新: 2024/01/13
 
 # 連絡先
 
@@ -24,8 +24,8 @@
   - Sinatra
 
 - RDBMS
-  - MySQL
   - PostgreSQL
+  - MySQL
 
 - NoSQL
   - Redis
@@ -55,6 +55,9 @@
 - Ruby on Rails 製 Multi Tenant Web Application の開発業務
 - 認証基盤の改修
 - SAML認証の追加
+- HR Driven Provisioning (SCIM)
+  - Okta
+  - Microsoft Entra ID
 - ops
 
 
