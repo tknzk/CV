@@ -1,5 +1,5 @@
 # 職務経歴書
-最終更新: 2024/04/22
+最終更新: 2025/03/22
 
 # 連絡先
 
@@ -48,7 +48,7 @@
 
 ## 職務経歴
 
-### 2024-06 - : xxxxx
+### 2024-06 - : 株式会社SalusTech
 
 ### 2017-02 - 2024-05: 株式会社SmartHR
 
@@ -77,7 +77,7 @@
 
 - 職種: ソフトウェアエンジニア
 - クラウドファンディングサービスの開発・運用
-  - [COUNTDOWN](https://www.countdown-x.com/)
+  - COUNTDOWN (https://www.countdown-x.com/)
 - 越境ECの開発・運用
   - [ALEXCIOUS](https://www.alexcious.com/)
 
@@ -132,13 +132,16 @@
 
 ## 所属団体
 - [MyDataJapan](https://mydatajapan.org/) 個人会員
-- [IDPRO](https://idpro.org/) Individual Member
 
 ## 興味関心
 - 子育て
 - インターネットサービス
 - 認証基盤
+- OpenID
+  - OIDC4IDA
+  - OpenID4VC
 
 ## 興味関心のない分野
 - 広告配信
 - 不動産Tech
+
